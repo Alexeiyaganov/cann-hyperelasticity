@@ -1,0 +1,30 @@
+============================================================
+Forest Ecoregion Clustering - Results Summary
+============================================================
+Date: 2026-05-16 12:11:28
+
+Number of ecoregions: 18
+Number of samples: 10000
+
+----------------------------------------
+QUALITY METRICS
+----------------------------------------
+Silhouette score: 0.0980
+  (range: -1 to 1, >0 indicates some structure)
+
+PCA explained variance:
+  PC1: 0.3947 (39.5%)
+  PC2: 0.1778 (17.8%)
+  PC3: 0.0857 (8.6%)
+  Cumulative (PC1-3): 0.6583 (65.8%)
+
+Adjusted Rand Index (vs latitudinal zones): 0.1154
+  (1.0 = perfect agreement, 0 = random)
+
+----------------------------------------
+REFERENCE
+----------------------------------------
+Kharitonova T.I., Krinitskiy M.A., Rezvov V.Yu., Maksakov A.I., Olchev A.V., Gulev S.K.
+Regionalization of Forest Landscapes in Russia to Optimize Regional Modeling
+of Greenhouse Gas Fluxes. Doklady Earth Sciences, 2025, Vol. 520, No. 1, pp. 333-339
+DOI: 10.1134/S1028334X24604346
